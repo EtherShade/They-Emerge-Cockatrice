@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TEA</name>
+      <longname>They Emerge alphatest</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Basic Data</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Data</type>
+        <maintype>Data</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>A deck may contain any number of cards named Basic Data.
+Tap this: +{B}.</text>
+    </card>
+    <card>
+      <name>LittleBird_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Study</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw cards equal to half Study’s power.</text>
+    </card>
+    <card>
+      <name>Secret Study</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw cards equal to half Secret Study’s power.</text>
+    </card>
+    <card>
+      <name>Burn Alive</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Burn Alive deals damage equal to its power to any target.</text>
+    </card>
+    <card>
+      <name>Outthink</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (You may play this card anytime you have priority.)
+Put target non-Data non-Creature card being played into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Prevent</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (You may play this card anytime you have priority.)
+Put target non-Data card being played into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Outdo</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (You may play this card anytime you have priority.)
+Put target Creature card being played into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Skilled Initiate</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/1/0</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>ChonkyBird_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/3/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Vigilant Sentry</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/2/0</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Untap Vigilant Sentry during your opponent’s untap phase.</text>
+    </card>
+    <card>
+      <name>Researcher</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/3/0</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tap this: +{B}.</text>
+    </card>
+    <card>
+      <name>MeanBird_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BigBird_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/3/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Task Force Soldier</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/3/0</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Interpretive Agent</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/2/0</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>BBBB: Interpretive Agent gets +1/+2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Brutal Soldier</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>4/4/0</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Emergent Dasher</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>5/4/0</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>BB: Emergent Dasher gets +0/+0/+1 until end of turn.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Anomaly -2</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+        <notes>!token
+!related Turn Structure Part 2</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Until your next untap step, the first two times you would get +{B}, you don’t get that {B} instead.</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 2</reverse-related>
+    </card>
+    <card>
+      <name>Anomaly -1</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+        <notes>!token
+!related Turn Structure Part 2</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Until your next untap step, the first time you would get +{B}, you don’t get that {B} instead.</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 2</reverse-related>
+    </card>
+    <card>
+      <name>Anomaly +1</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+        <notes>!token
+!related Turn Structure Part 2</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+{B}.</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 2</reverse-related>
+    </card>
+    <card>
+      <name>Anomaly +2</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+        <notes>!token
+!related Turn Structure Part 2</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+BB.</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 2</reverse-related>
+    </card>
+    <card>
+      <name>Turn Structure Part 1</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+        <notes>!token</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>>Stockpile Phase: You may pay any amount of Bits. Gain that many draw points.
+>Untap Phase: Untap each permanent you control. (Anomalies aren’t permanents.)
+>Draw Phase: You gain 2 draw points. Then you may spend any amount of draw points, as follows:
+	>2 draw points: Draw a card.
+	>3 draw points: Set aside cards from the top of your deck face up until you set aside a Data card. Put the Data card into your hand and the rest on the bottom of your deck in a random order.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Turn Structure Part 2</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+        <notes>!token
+!related Turn Structure Part 1</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>>Anomaly Phase: Choose one of your untapped anomalies. Tap it and gain its effect this turn. Then if all of your anomalies are tapped, untap them.
+>Main Phase: You may play cards with normal speed.
+>Discard Phase: Discard down to cards in hand equal to your max hand size, which defaults to 8.
+>End Phase: Each player loses all Bits. (They do not lose draw points.)</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 1</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
