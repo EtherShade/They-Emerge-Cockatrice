@@ -330,7 +330,7 @@ Targets a creature card being played.
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>BBBB: Interpretive Agent gets +1/+2/+0 until end of turn.</text>
+      <text>BBBBBB: Interpretive Agent gets +1/+0/+2 until end of turn.</text>
     </card>
     <card>
       <name>Brutal Soldier</name>
@@ -368,7 +368,7 @@ Targets a creature card being played.
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>BB: Emergent Dasher gets +0/+1/+0 until end of turn.</text>
+      <text>BBB: Emergent Dasher gets +0/+1/+0 until end of turn.</text>
     </card>
     <card>
       <name>The First Axiom</name>
