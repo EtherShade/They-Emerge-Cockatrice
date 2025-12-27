@@ -41,7 +41,7 @@ Tap this: +{B}.</text>
         <mv>0</mv>
         <type>Creature</type>
         <maintype>Creature</maintype>
-        <pt>1/2/1</pt>
+        <pt>1/1/2</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -63,10 +63,13 @@ Tap this: +{B}.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Draw cards equal to half Study’s power.</text>
+      <text>1-2-3 — Draw a card.
+4-5-6 — Draw two cards.
+7-8-9 — Draw three cards.
+10+ — Draw four cards.</text>
     </card>
     <card>
-      <name>Secret Study</name>
+      <name>Guarded Study</name>
       <set rarity="common">TEA</set>
       <prop>
         <colors></colors>
@@ -81,7 +84,10 @@ Tap this: +{B}.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Draw cards equal to half Secret Study’s power.</text>
+      <text>1-2-3 — Draw a card.
+4-5-6 — Draw two cards.
+7-8-9 — Draw three cards.
+10+ — Draw four cards.</text>
     </card>
     <card>
       <name>Burn Alive</name>
@@ -99,7 +105,11 @@ Tap this: +{B}.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Burn Alive deals damage equal to its power to any target.</text>
+      <text>Targets a creature, tactic card being played, or player.
+1 — Burn Alive deals 1 damage to target.
+2 — Burn Alive deals 2 damage to target.
+3-4 — Burn Alive deals 3 damage to target.
+5+ — Burn Alive deals 4 damage to target.</text>
     </card>
     <card>
       <name>Outthink</name>
@@ -118,7 +128,11 @@ Tap this: +{B}.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Reactive (You may play this card anytime you have priority.)
-Put target non-Data non-Creature card being played into its owner’s discard pile.</text>
+Targets a non-data non-creature card being played.
+1-2 — If target has bit cost two or less, cancel it.
+3 — If target has bit cost three or less, cancel it.
+4-5-6 — If target has bit cost four or less, cancel it.
+7+ —Cancel target.</text>
     </card>
     <card>
       <name>Prevent</name>
@@ -137,7 +151,11 @@ Put target non-Data non-Creature card being played into its owner’s discard pi
       </prop>
       <tablerow>1</tablerow>
       <text>Reactive (You may play this card anytime you have priority.)
-Put target non-Data card being played into its owner’s discard pile.</text>
+Targets a non-data card being played.
+1-2 — If target has bit cost two or less, cancel it.
+3 — If target has bit cost three or less, cancel it.
+4-5-6 — If target has bit cost four or less, cancel it.
+7+ —Cancel target.</text>
     </card>
     <card>
       <name>Outdo</name>
@@ -156,7 +174,11 @@ Put target non-Data card being played into its owner’s discard pile.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Reactive (You may play this card anytime you have priority.)
-Put target Creature card being played into its owner’s discard pile.</text>
+Targets a creature card being played.
+1-2 — If target has bit cost two or less, cancel it.
+3 — If target has bit cost three or less, cancel it.
+4-5 — If target has bit cost four or less, cancel it.
+6+ — If target has bit cost five or less, cancel it.</text>
     </card>
     <card>
       <name>Skilled Initiate</name>
@@ -171,7 +193,7 @@ Put target Creature card being played into its owner’s discard pile.</text>
         <mv>0</mv>
         <type>Creature</type>
         <maintype>Creature</maintype>
-        <pt>2/1/0</pt>
+        <pt>2/0/1</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -190,7 +212,7 @@ Put target Creature card being played into its owner’s discard pile.</text>
         <mv>0</mv>
         <type>Creature</type>
         <maintype>Creature</maintype>
-        <pt>1/3/1</pt>
+        <pt>1/1/3</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -209,7 +231,7 @@ Put target Creature card being played into its owner’s discard pile.</text>
         <mv>0</mv>
         <type>Creature</type>
         <maintype>Creature</maintype>
-        <pt>2/2/0</pt>
+        <pt>2/0/2</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -228,7 +250,7 @@ Put target Creature card being played into its owner’s discard pile.</text>
         <mv>0</mv>
         <type>Creature</type>
         <maintype>Creature</maintype>
-        <pt>1/3/0</pt>
+        <pt>1/0/3</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -266,7 +288,7 @@ Put target Creature card being played into its owner’s discard pile.</text>
         <mv>0</mv>
         <type>Creature</type>
         <maintype>Creature</maintype>
-        <pt>2/3/1</pt>
+        <pt>2/1/3</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -285,7 +307,7 @@ Put target Creature card being played into its owner’s discard pile.</text>
         <mv>0</mv>
         <type>Creature</type>
         <maintype>Creature</maintype>
-        <pt>3/3/0</pt>
+        <pt>3/0/3</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -304,7 +326,7 @@ Put target Creature card being played into its owner’s discard pile.</text>
         <mv>0</mv>
         <type>Creature</type>
         <maintype>Creature</maintype>
-        <pt>3/2/0</pt>
+        <pt>3/0/2</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -323,7 +345,7 @@ Put target Creature card being played into its owner’s discard pile.</text>
         <mv>0</mv>
         <type>Creature</type>
         <maintype>Creature</maintype>
-        <pt>4/4/0</pt>
+        <pt>4/0/4</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -342,11 +364,68 @@ Put target Creature card being played into its owner’s discard pile.</text>
         <mv>0</mv>
         <type>Creature</type>
         <maintype>Creature</maintype>
-        <pt>5/4/0</pt>
+        <pt>5/0/4</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>BB: Emergent Dasher gets +0/+0/+1 until end of turn.</text>
+      <text>BB: Emergent Dasher gets +0/+1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>The First Axiom</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Data</type>
+        <maintype>Data</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Precursor 3 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the battlefield if you reveal three other cards with the same name as it from your deck.)
+Tap this: +{B}.</text>
+    </card>
+    <card>
+      <name>The Second Axiom</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Data</type>
+        <maintype>Data</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Precursor 3 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the battlefield if you reveal three other cards with the same name as it from your deck.)
+Tap this: +{B}.</text>
+    </card>
+    <card>
+      <name>The Third Axiom</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Data</type>
+        <maintype>Data</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Precursor 3 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the battlefield if you reveal three other cards with the same name as it from your deck.)
+Tap this: +{B}.</text>
     </card>
 
     <!-->Tokens</-->
@@ -440,9 +519,10 @@ Put target Creature card being played into its owner’s discard pile.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>>Anomaly Phase: Choose one of your untapped anomalies. Tap it and gain its effect this turn. Then if all of your anomalies are tapped, untap them.
+>Combat Phase: You may attack with any number of untapped creatures you control by tapping them. Then, your opponent may assign any number of untapped creatures they control as blockers blocking attackers you control. Then, they fight, dealing damage with strength (The first creature stat).
 >Main Phase: You may play cards with normal speed.
 >Discard Phase: Discard down to cards in hand equal to your max hand size, which defaults to 8.
->End Phase: Each player loses all Bits. (They do not lose draw points.)</text>
+>End Phase: Each player loses all bits. (They do not lose draw points.)</text>
       <token>1</token>
       <reverse-related>Turn Structure Part 1</reverse-related>
     </card>
