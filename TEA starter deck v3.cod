@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Tue Dec 30 18:29:03 2025</lastLoadedTimestamp>
+    <deckname>TEA starter deck v3</deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="16" name="Basic Data" setShortName="TEA"/>
+        <card number="4" name="Study" setShortName="TEA"/>
+        <card number="4" name="Burn Alive" setShortName="TEA"/>
+        <card number="4" name="Prevent" setShortName="TEA"/>
+        <card number="4" name="Outdo" setShortName="TEA"/>
+        <card number="4" name="LittleBird_" setShortName="TEA"/>
+        <card number="4" name="Vigilant Sentry" setShortName="TEA"/>
+        <card number="4" name="Researcher" setShortName="TEA"/>
+        <card number="4" name="BigBird_" setShortName="TEA"/>
+        <card number="4" name="The First Axiom" setShortName="TEA"/>
+        <card number="4" name="The Second Axiom" setShortName="TEA"/>
+        <card number="4" name="The Third Axiom" setShortName="TEA"/>
+        <card number="4" name="Outthink" setShortName="TEA"/>
+        <card number="4" name="Interpretive Agent" setShortName="TEA"/>
+        <card number="4" name="Lesson" setShortName="TEA"/>
+        <card number="4" name="Aztharian Rank 5 Soldier" setShortName="TEA"/>
+        <card number="4" name="Aztharian Rank 4 Soldier" setShortName="TEA"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Turn Structure Part 1" setShortName="TEA"/>
+    </zone>
+</cockatrice_deck>
