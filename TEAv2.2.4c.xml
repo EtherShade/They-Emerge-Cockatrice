@@ -311,7 +311,7 @@ Targets a creature card being played.
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>BBBBBB: Interpretive Agent gets +1/+0/+2 until end of turn.</text>
+      <text>BBBBBB: Interpretive Agent gets +1/+0/ until end of turn. Prevent the next 1 damage that would be dealt to it this turn.</text>
     </card>
     <card>
       <name>EmergentDasher_</name>
@@ -330,7 +330,7 @@ Targets a creature card being played.
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>BBB: EmergentDasher_ gets +0/+1/+0 until end of turn.</text>
+      <text>BBB: EmergentDasher_ gets +0/+1/ until end of turn.</text>
     </card>
     <card>
       <name>The First Axiom</name>
