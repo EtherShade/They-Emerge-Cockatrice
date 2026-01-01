@@ -127,12 +127,12 @@ Tap this: +{B}.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Reactive (You may play this card anytime you have priority.)
+      <text>Reactive (You may play this card or activate this ability anytime you have priority.)
 Targets a non-data non-creature card being played.
 1-2 — If target has bit cost two or less, cancel it.
 3 — If target has bit cost three or less, cancel it.
-4-5-6 — If target has bit cost four or less, cancel it.
-7+ —Cancel target.</text>
+4-5-6 — If target has bit cost five or less, cancel it.
+7+ — Cancel target.</text>
     </card>
     <card>
       <name>Prevent</name>
@@ -150,12 +150,12 @@ Targets a non-data non-creature card being played.
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Reactive (You may play this card anytime you have priority.)
+      <text>Reactive (You may play this card or activate this ability anytime you have priority.)
 Targets a non-data card being played.
 1-2 — If target has bit cost two or less, cancel it.
 3 — If target has bit cost three or less, cancel it.
-4-5-6 — If target has bit cost four or less, cancel it.
-7+ —Cancel target.</text>
+4-5-6 — If target has bit cost five or less, cancel it.
+7+ — Cancel target.</text>
     </card>
     <card>
       <name>Outdo</name>
@@ -173,12 +173,12 @@ Targets a non-data card being played.
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Reactive (You may play this card anytime you have priority.)
+      <text>Reactive (You may play this card or activate this ability anytime you have priority.)
 Targets a creature card being played.
 1-2 — If target has bit cost two or less, cancel it.
 3 — If target has bit cost three or less, cancel it.
-4-5-6 — If target has bit cost four or less, cancel it.
-7+ —Cancel target.</text>
+4-5-6 — If target has bit cost five or less, cancel it.
+7+ — Cancel target.</text>
     </card>
     <card>
       <name>Skilled Initiate</name>
@@ -311,7 +311,7 @@ Targets a creature card being played.
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>BBBBBB: Interpretive Agent gets +1/+0/ until end of turn. Prevent the next 1 damage that would be dealt to it this turn.</text>
+      <text>BBBBBB: Interpretive Agent gets +1/+0/ until end of turn. Prevent the next 1 damage that would be dealt to it this turn. Activate with reactive. (You may play this card or activate this ability anytime you have priority.)</text>
     </card>
     <card>
       <name>EmergentDasher_</name>
@@ -348,7 +348,7 @@ Targets a creature card being played.
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Precursor 3 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the battlefield if you reveal three other cards with the same name as it from your deck.)
+      <text>Precursor 3 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the field if you reveal three other cards with the same name as it from your deck.)
 The First Axiom enters tapped.
 Tap this: +{B}.</text>
     </card>
@@ -368,7 +368,7 @@ Tap this: +{B}.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Precursor 3 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the battlefield if you reveal three other cards with the same name as it from your deck.)
+      <text>Precursor 3 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the field if you reveal three other cards with the same name as it from your deck.)
 The Second Axiom enters tapped.
 Tap this: +{B}.</text>
     </card>
@@ -388,7 +388,7 @@ Tap this: +{B}.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Precursor 3 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the battlefield if you reveal three other cards with the same name as it from your deck.)
+      <text>Precursor 3 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the field if you reveal three other cards with the same name as it from your deck.)
 The Third Axiom enters tapped.
 Tap this: +{B}.</text>
     </card>
@@ -939,6 +939,28 @@ Tap this: +{B}.
       <tablerow>2</tablerow>
       <text>When Aztharian Rank 1 Scout dies, +{D}.</text>
     </card>
+    <card>
+      <name>Burst of Strength</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Targets a creature.
+1 — Target gets +1/+0 until end of turn.
+2 — Target gets +2/+0 until end of turn.
+3-4 — Target gets +3/+0 until end of turn.
+5+ — Target gets +4/+0 until end of turn.</text>
+    </card>
 
     <!-->Tokens</-->
 
@@ -1012,11 +1034,11 @@ Tap this: +{B}.
         <notes>!token</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>>Stockpile Phase: You may pay any amount of Bits. Gain that many draw points.
+      <text>>Stockpile Phase: You may pay any amount of {B}. Gain that many {D}.
 >Untap Phase: Untap each permanent you control. (Anomalies aren’t permanents.)
->Draw Phase: You gain 2 draw points. Then you may spend any amount of draw points, as follows:
-	>2 draw points: Draw a card.
-	>3 draw points: Set aside cards from the top of your deck face up until you set aside a Data card. Put the Data card into your hand and the rest on the bottom of your deck in a random order.</text>
+>Draw Phase: +DD. Then you may spend any amount of {D}, as follows:
+>DD: Draw a card.
+>DDD: Set aside cards from the top of your deck face up until you set aside a Data card. Put the Data card into your hand and the rest on the bottom of your deck in a random order.</text>
       <token>1</token>
     </card>
     <card>
@@ -1030,8 +1052,8 @@ Tap this: +{B}.
 !related Turn Structure Part 1</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>>Anomaly Phase: Choose one of your untapped anomalies. Tap it and gain its effect this turn. Then if all of your anomalies are tapped, untap them.
->Combat Phase: You may attack with any number of untapped creatures you control by tapping them. Then, your opponent may assign any number of untapped creatures they control as blockers blocking attackers you control. Then, they fight, dealing damage with strength (The first creature stat).
+      <text>>Combat Phase: You may attack with any number of untapped creatures you control by tapping them. Then, your opponent may assign any number of untapped creatures they control as blockers blocking attackers you control. Then, they fight, dealing damage with strength (The first creature stat).
+>Anomaly Phase: Choose one of your untapped anomalies. Tap it and gain its effect this turn. Then if all of your anomalies are tapped, untap them.
 >Main Phase: You may play cards with normal speed.
 >Discard Phase: Discard down to cards in hand equal to your max hand size, which defaults to 8.
 >End Phase: Each player loses all bits. (They do not lose draw points.)</text>
