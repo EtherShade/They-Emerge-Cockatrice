@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Jan 4 11:35:09 2026</lastLoadedTimestamp>
-    <deckname>TEA starter deck v4</deckname>
+    <lastLoadedTimestamp>Sun Jan 4 14:29:18 2026</lastLoadedTimestamp>
+    <deckname>TEA starter deck v5</deckname>
     <bannerCard providerId=""></bannerCard>
     <comments></comments>
     <tags/>
@@ -19,10 +19,5 @@
     </zone>
     <zone name="tokens">
         <card number="1" name="Turn Structure Part 1" setShortName="TEA"/>
-    </zone>
-    <zone name="side">
-        <card number="1" name="The First Axiom" setShortName="TEA"/>
-        <card number="1" name="The Second Axiom" setShortName="TEA"/>
-        <card number="1" name="The Third Axiom" setShortName="TEA"/>
     </zone>
 </cockatrice_deck>

@@ -314,63 +314,6 @@ Targets a creature card being played.
       <text>3{B}: EmergentDasher_ gets +0/+1/ until end of turn.</text>
     </card>
     <card>
-      <name>The First Axiom</name>
-      <set rarity="common">TEA</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>System</type>
-        <maintype>System</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Foundation 3 (Your decklist may have up to 12 points worth of foundation cards, that are set aside from the maindeck and start in play. Foundation cards can’t start in your maindeck.)
-Research (During your data phase, put a data counter on this. You may pay for {B} costs by removing data counters from one of your systems with research. You can’t pay for {B} costs with more than one system at a time.)</text>
-    </card>
-    <card>
-      <name>The Second Axiom</name>
-      <set rarity="common">TEA</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>System</type>
-        <maintype>System</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Foundation 3 (Your decklist may have up to 12 points worth of foundation cards, that are set aside from the maindeck and start in play. Foundation cards can’t start in your maindeck.)
-Research (During your data phase, put a data counter on this. You may pay for {B} costs by removing data counters from one of your systems with research. You can’t pay for {B} costs with more than one system at a time.)</text>
-    </card>
-    <card>
-      <name>The Third Axiom</name>
-      <set rarity="common">TEA</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>System</type>
-        <maintype>System</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Foundation 3 (Your decklist may have up to 12 points worth of foundation cards, that are set aside from the maindeck and start in play. Foundation cards can’t start in your maindeck.)
-Research (During your data phase, put a data counter on this. You may pay for {B} costs by removing data counters from one of your systems with research. You can’t pay for {B} costs with more than one system at a time.)</text>
-    </card>
-    <card>
       <name>Lesson</name>
       <set rarity="common">TEA</set>
       <prop>
@@ -935,7 +878,7 @@ Research (During your data phase, put a data counter on this. You may pay for {B
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Foundation 2 (Your decklist may have up to 12 points worth of foundation cards, that are set aside from the maindeck and start in play. Foundation cards can’t start in your maindeck.)
+      <text>Precursor 2 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the field if you reveal three other cards with the same name as it from your deck.)
 Glitchspeed enters tapped.
 Tap this: The next creature card you play this turn has reactive. (You may play this card or activate this ability anytime you have priority.)</text>
     </card>
@@ -955,7 +898,7 @@ Tap this: The next creature card you play this turn has reactive. (You may play 
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Foundation 2 (Your decklist may have up to 12 points worth of foundation cards, that are set aside from the maindeck and start in play. Foundation cards can’t start in your maindeck.)
+      <text>Precursor 2 (Before you shuffle your deck to start the game, you may reveal up to 12 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the field if you reveal three other cards with the same name as it from your deck.)
 Glitchtime enters tapped.
 Tap this: The next tactic card you play this turn has reactive. (You may play this card or activate this ability anytime you have priority.)</text>
     </card>
@@ -1030,12 +973,12 @@ Tap this: The next tactic card you play this turn has reactive. (You may play th
 !related Turn Structure Part 2</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Until your next untap step, the first two times you would get +{B}, you don’t get that {B} instead.</text>
+      <text>Remove two data counters from one of your datacenters.</text>
       <token>1</token>
       <reverse-related>Turn Structure Part 2</reverse-related>
     </card>
     <card>
-      <name>Anomaly -1</name>
+      <name>Anomaly -1/-1</name>
       <set>TEA</set>
       <prop>
         <colors></colors>
@@ -1045,12 +988,12 @@ Tap this: The next tactic card you play this turn has reactive. (You may play th
 !related Turn Structure Part 2</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Until your next untap step, the first time you would get +{B}, you don’t get that {B} instead.</text>
+      <text>Remove a data counter from two of your datacenters.</text>
       <token>1</token>
       <reverse-related>Turn Structure Part 2</reverse-related>
     </card>
     <card>
-      <name>Anomaly +1</name>
+      <name>Anomaly +1/+1</name>
       <set>TEA</set>
       <prop>
         <colors></colors>
@@ -1060,7 +1003,7 @@ Tap this: The next tactic card you play this turn has reactive. (You may play th
 !related Turn Structure Part 2</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>+{B}.</text>
+      <text>Put a data counter on two of your datacenters.</text>
       <token>1</token>
       <reverse-related>Turn Structure Part 2</reverse-related>
     </card>
@@ -1075,7 +1018,7 @@ Tap this: The next tactic card you play this turn has reactive. (You may play th
 !related Turn Structure Part 2</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>+BB.</text>
+      <text>Put two data counters on one of your datacenters.</text>
       <token>1</token>
       <reverse-related>Turn Structure Part 2</reverse-related>
     </card>
@@ -1089,9 +1032,9 @@ Tap this: The next tactic card you play this turn has reactive. (You may play th
         <notes>!token</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>>Stockpile Phase: You may pay X {B}. Gain X {D}.
+      <text>>Stockpile Phase: You may remove X data counters from a system you control. +X{D}.
 >Untap Phase: Untap each permanent you control. (Anomalies aren’t permanents.)
->Data Phase: Put a data counter on each system you control with research.
+>Data Phase: Put a data counter on each datacenter you control.
 >Draw Phase: +2{D}. Then you may spend X 2{D}, to draw X cards.</text>
       <token>1</token>
     </card>
@@ -1112,6 +1055,51 @@ Tap this: The next tactic card you play this turn has reactive. (You may play th
 >Discard Phase: Discard down to cards in hand equal to your max hand size, which defaults to 8.</text>
       <token>1</token>
       <reverse-related>Turn Structure Part 1</reverse-related>
+    </card>
+    <card>
+      <name>The First Axiom</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type>Datacenter</type>
+        <maintype>Datacenter</maintype>
+        <notes>!token
+!related Turn Structure Part 2</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Research (During your data phase, put a data counter on this. You pay for {B} costs by tapping a system with research that has that many data counters, then removing a data counter from it.)</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 2</reverse-related>
+    </card>
+    <card>
+      <name>The Second Axiom</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type>Datacenter</type>
+        <maintype>Datacenter</maintype>
+        <notes>!token
+!related Turn Structure Part 2</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Research (During your data phase, put a data counter on this. You pay for {B} costs by tapping a system with research that has that many data counters, then removing a data counter from it.)</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 2</reverse-related>
+    </card>
+    <card>
+      <name>The Third Axiom</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type>Datacenter</type>
+        <maintype>Datacenter</maintype>
+        <notes>!token
+!related Turn Structure Part 2</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Research (During your data phase, put a data counter on this. You pay for {B} costs by tapping a system with research that has that many data counters, then removing a data counter from it.)</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 2</reverse-related>
     </card>
 
   </cards>
