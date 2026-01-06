@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TEA</name>
+      <longname>They Emerge alphatest</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>LittleBird_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Study</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw X cards.
+1-2 — X = 1
+3-5 — X = 2
+6-9 — X = 3
+10+ — X = 4</text>
+    </card>
+    <card>
+      <name>Guarded Study</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw X cards.
+1-2 — X = 1
+3-5 — X = 2
+6-9 — X = 3
+10+ — X = 4</text>
+    </card>
+    <card>
+      <name>Burn Alive</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Targets a creature or player. Burn Alive alive deals X damage to target.
+1 — X = 1
+2 — X = 2
+3-4 — X = 3
+5+ — X = 4</text>
+    </card>
+    <card>
+      <name>Outthink</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (You may play this card or activate this ability anytime you have priority.)
+Targets a non-creature card being played. If target has bit cost X or less, cancel it.
+1-2 — X = 2
+3 — X = 4
+4-6 — X = 6
+7+ — X = 100</text>
+    </card>
+    <card>
+      <name>Prevent</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (You may play this card or activate this ability anytime you have priority.)
+Targets a card being played. If target has bit cost X or less, cancel it.
+1-2 — X = 2
+3 — X = 4
+4-6 — X = 6
+7+ — X = 100</text>
+    </card>
+    <card>
+      <name>Outdo</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (You may play this card or activate this ability anytime you have priority.)
+Targets a creature card being played. If target has bit cost X or less, cancel it.
+1-2 — X = 2
+3 — X = 4
+4-6 — X = 6
+7+ — X = 100</text>
+    </card>
+    <card>
+      <name>Skilled Initiate</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/0/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>ChonkyBird_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Vigilant Sentry</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/0/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Untap Vigilant Sentry during your opponent’s untap phase.</text>
+    </card>
+    <card>
+      <name>Researcher</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/0/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tap this: Put a data counter on a datacenter you control.</text>
+    </card>
+    <card>
+      <name>MeanBird_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BigBird_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Interpretive Agent</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/0/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3{B}: Interpretive Agent gets +1/+0/ until end of turn. Prevent the next 1 damage that would be dealt to it this turn. Activate with reactive. (You may play this card or activate this ability anytime you have priority.)</text>
+    </card>
+    <card>
+      <name>EmergentDasher_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>5/0/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3{B}: EmergentDasher_ gets +0/+1/ until end of turn.</text>
+    </card>
+    <card>
+      <name>Lesson</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+X{D}.
+1-2 — X = 2
+3-4 — X = 4
+5-7 — X = 5
+8+ — X = 7</text>
+    </card>
+    <card>
+      <name>Guarded Lesson</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+X{D}.
+1-2 — X = 2
+3-4 — X = 4
+5-7 — X = 5
+8+ — X = 7</text>
+    </card>
+    <card>
+      <name>Stealth Agent</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Flash of Genius</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+X{I}.
+1 — X = 1
+2-4 — X = 2
+5-6 — X = 3
+7-8 — X = 4
+9+ — X = 5</text>
+    </card>
+    <card>
+      <name>Learned Study</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw X cards.
+1-2 — X = 1
+3-5 — X = 2
+6-9 — X = 3
+10+ — X = 4</text>
+    </card>
+    <card>
+      <name>Deliberation</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw a card. +X{I}.
+1 — X = 0
+2 — X = 1
+3 — X = 2
+4+ — X = 3</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 6 Soldier</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>3/0/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 6 Soldier dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 7 Soldier</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>2/0/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 7 Soldier dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 5 Soldier</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>4/0/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 5 Soldier dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 6 Technician</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>3/0/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 6 Technician enters, +DD.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 5 Technician</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>3/0/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 5 Technician enters, +DD.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 4 Soldier</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>5/0/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 4 Soldier dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 4 Technician</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>3/0/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 4 Technician enters, +DD.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 3 Technician</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>5/0/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 3 Technician enters, +DD.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 3 Soldier</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>5/0/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 3 Soldier dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 2 Soldier</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>6/0/6</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 2 Soldier dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 2 Technician</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>5/0/6</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 2 Technician enters, +DD.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 1 Technician</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>5/0/7</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 1 Technician enters, +DD.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 1 Soldier</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>7/0/7</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 1 Soldier dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 7 Scout</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>1/1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 7 Scout dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 6 Scout</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>2/1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 6 Scout dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 5 Scout</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>3/1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 5 Scout dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 4 Scout</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>3/1/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 4 Scout dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 3 Scout</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>4/1/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 3 Scout dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 2 Scout</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>5/1/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 2 Scout dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Aztharian Rank 1 Scout</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>6/1/6</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aztharian Rank 1 Scout dies, +{D}.</text>
+    </card>
+    <card>
+      <name>Burst of Strength</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Targets a creature. Target gets +X/+0 until end of turn.
+1 — X = 1
+2 — X = 2
+3-4 — X = 3
+5+ — X = 4</text>
+    </card>
+    <card>
+      <name>Glitchspeed</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>System</type>
+        <maintype>System</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Precursor 2 (Before you shuffle your deck to start the game, you may reveal up to 7 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the field if you reveal three other cards with the same name as it from your deck.)
+Glitchspeed enters tapped.
+Tap this: The next creature card you play this turn has reactive. (You may play this card or activate this ability anytime you have priority.)</text>
+    </card>
+    <card>
+      <name>Glitchtime</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>System</type>
+        <maintype>System</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Precursor 2 (Before you shuffle your deck to start the game, you may reveal up to 7 total precursor value of cards with different names from your deck. For each card revealed this way, put it onto the field if you reveal three other cards with the same name as it from your deck.)
+Glitchtime enters tapped.
+Tap this: The next tactic card you play this turn has reactive. (You may play this card or activate this ability anytime you have priority.)</text>
+    </card>
+    <card>
+      <name>CreatureReactionExpander_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Expander </type>
+        <maintype>Creature</maintype>
+        <pt>0/0/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Each creature card you own has reactive. (You may play this card or activate this ability anytime you have priority.)</text>
+    </card>
+    <card>
+      <name>TacticReactionExpander_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Expander  </type>
+        <maintype>Creature</maintype>
+        <pt>0/0/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Each tactic card you own has reactive. (You may play this card or activate this ability anytime you have priority.)</text>
+    </card>
+    <card>
+      <name>Swift Slayer</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/0/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reactive (You may play this card or activate this ability anytime you have priority.)</text>
+    </card>
+    <card>
+      <name>EnragedFlesh_</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>4/-1/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Wrath of the Skies</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Wrath of the Skies deals X damage to each creature.
+1-2 — X = 1
+3-5 — X = 2
+6-7 — X = 3
+8+ — X = 5</text>
+    </card>
+    <card>
+      <name>Extinction Event</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Destroy all creatures with bit cost X or less.
+1-2 — X = 2
+3-5 — X = 4
+6-7 — X = 6
+8+ — X = 100</text>
+    </card>
+    <card>
+      <name>Vile Fanatic</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/0/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tap this, Destroy Vile Fanatic: Vile Fanatic deals 1 damage to target creature or player.</text>
+    </card>
+    <card>
+      <name>Aztharian General</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Military </type>
+        <maintype>Creature</maintype>
+        <pt>3/3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{D}: Another target creature gets +1/+1/ until end of turn. Prevent the next 1 damage that would be dealt to it this turn.</text>
+    </card>
+    <card>
+      <name>Aztharian Supply Cruiser</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Vehicle Military </type>
+        <maintype>Creature</maintype>
+        <pt>0/0/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If a triggered ability of another creature you control would cause you to get an amount of +{D}, you get that much +{D} plus 1 instead.</text>
+    </card>
+    <card>
+      <name>Aztharian Research Vessel</name>
+      <set rarity="common">TEA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Vehicle Civilian </type>
+        <maintype>Creature</maintype>
+        <pt>0/0/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>DDD: Put a data counter on target datacenter.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Turn Structure Part 1</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+        <notes>!token</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>>Stockpile Phase: You may tap any number of your datacenters. Get that many +{D}.
+>Untap Phase: Untap each permanent you control. (Anomalies aren’t permanents.)
+>Data Phase: Put a data counter on each datacenter you control.
+>Draw Phase: +2{D}. Then you may spend X 2{D}, to draw X cards.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Turn Structure Part 2</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+        <notes>!token
+!related Turn Structure Part 1</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>>Combat Phase: You may attack with any number of untapped creatures you control by tapping them. Then, your opponent may assign any number of untapped creatures they control as blockers blocking attackers you control. Then, they fight, dealing damage with strength (The first creature stat).
+>Main Phase: You may play cards with normal speed. (You may only play one data card per turn.)
+>Discard Phase: Discard down to cards in hand equal to your max hand size, which defaults to 8.</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 1</reverse-related>
+    </card>
+    <card>
+      <name>The First Axiom</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type>DataCenter</type>
+        <maintype>DataCenter</maintype>
+        <notes>!token
+!related Turn Structure Part 2</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Research (During your data phase, put a data counter on this. You pay for {B} costs by tapping a system with research that has that many data counters, then removing a data counter from it.)</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 2</reverse-related>
+    </card>
+    <card>
+      <name>The Second Axiom</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type>DataCenter</type>
+        <maintype>DataCenter</maintype>
+        <notes>!token
+!related Turn Structure Part 2</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Research (During your data phase, put a data counter on this. You pay for {B} costs by tapping a system with research that has that many data counters, then removing a data counter from it.)</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 2</reverse-related>
+    </card>
+    <card>
+      <name>The Third Axiom</name>
+      <set>TEA</set>
+      <prop>
+        <colors></colors>
+        <type>DataCenter</type>
+        <maintype>DataCenter</maintype>
+        <notes>!token
+!related Turn Structure Part 2</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Research (During your data phase, put a data counter on this. You pay for {B} costs by tapping a system with research that has that many data counters, then removing a data counter from it.)</text>
+      <token>1</token>
+      <reverse-related>Turn Structure Part 2</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
