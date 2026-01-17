@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Tue Jan 6 16:20:10 2026</lastLoadedTimestamp>
-    <deckname>TEA starter deck v6</deckname>
+    <lastLoadedTimestamp>Sat Jan 17 11:58:09 2026</lastLoadedTimestamp>
+    <deckname>TEA starter deck v8</deckname>
     <bannerCard providerId=""></bannerCard>
     <comments></comments>
     <tags/>
@@ -13,9 +13,9 @@
         <card number="4" name="Researcher" setShortName="TEA"/>
         <card number="4" name="Outthink" setShortName="TEA"/>
         <card number="4" name="Lesson" setShortName="TEA"/>
-        <card number="4" name="Aztharian Rank 5 Soldier" setShortName="TEA"/>
         <card number="4" name="Aztharian Rank 4 Soldier" setShortName="TEA"/>
-        <card number="4" name="Stealth Agent" setShortName="TEA"/>
+        <card number="4" name="Private Investigator" setShortName="TEA"/>
+        <card number="4" name="Research" setShortName="TEA"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Turn Structure Part 1" setShortName="TEA"/>
